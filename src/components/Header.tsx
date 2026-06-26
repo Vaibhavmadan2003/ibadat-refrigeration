@@ -22,7 +22,7 @@ const Header = () => {
       <div className="bg-cyan-700 text-white py-2 text-sm sticky top-0 z-40">
         <div className="container mx-auto px-4 flex justify-between items-center">
           <div className="flex items-center space-x-4">
-            <span>📞 +91 95298 25994</span>
+            <span>📞 +91 95298 25994 | +91 93257 45646</span>
           </div>
           <div className="flex items-center space-x-4">
             <span className="hidden md:block">📍 2 number school ke pass, Parpeth, Malkapur, Maharashtra 443101</span>
