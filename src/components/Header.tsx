@@ -22,7 +22,7 @@ const Header = () => {
       <div className="bg-cyan-700 text-white py-2 text-sm sticky top-0 z-40">
         <div className="container mx-auto px-4 flex justify-between items-center">
           <div className="flex items-center space-x-4">
-            <span>📞 +91 95298 25994 | +91 93257 45646</span>
+            <span>📞 +91 93257 45646</span>
           </div>
           <div className="flex items-center space-x-4">
             <span className="hidden md:block">📍 2 number school ke pass, Parpeth, Malkapur, Maharashtra 443101</span>
@@ -70,13 +70,13 @@ const Header = () => {
               
               <div className="flex items-center space-x-3">
                 <a
-                  href="tel:+919529825994"
+                  href="tel:+919325745646"
                   className="bg-cyan-700 text-white px-6 py-2 rounded-full font-semibold hover:bg-cyan-800 transition-colors"
                 >
                   Call Now
                 </a>
                 <a
-                  href="https://wa.me/919529825994"
+                  href="https://wa.me/919325745646"
                   className="bg-green-600 text-white px-6 py-2 rounded-full font-semibold hover:bg-green-700 transition-colors"
                 >
                   WhatsApp
@@ -120,13 +120,13 @@ const Header = () => {
                 </Link>
                 <div className="flex flex-col space-y-2 pt-4">
                   <a
-                    href="tel:+919529825994"
+                    href="tel:+919325745646"
                     className="bg-cyan-700 text-white px-6 py-2 rounded-full font-semibold hover:bg-cyan-800 transition-colors text-center"
                   >
                     Call Now
                   </a>
                   <a
-                    href="https://wa.me/919529825994"
+                    href="https://wa.me/919325745646"
                     className="bg-green-600 text-white px-6 py-2 rounded-full font-semibold hover:bg-green-700 transition-colors text-center"
                   >
                     WhatsApp
